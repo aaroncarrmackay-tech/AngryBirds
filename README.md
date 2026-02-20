@@ -1,4 +1,4 @@
-# Angry Birds clone
+Hammer Birds version - GitHub Pages triggered!
 
 Angry Birds clone game in JavaScript.
 
